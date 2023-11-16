@@ -1,1 +1,1 @@
- import streamlit as st
+Open Jarvis.py and copy the text and paste in the pycharm or anothe software to use
